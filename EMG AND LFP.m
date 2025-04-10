@@ -1,5 +1,5 @@
 # EMG-and-LFP-codes-.m
- In the project focus on the animal models EMG-(Electromyography)  and  LFP- (Local Field Potential ) . It is a matlab based Neural signal analysis 
+%% In the project focus on the animal models EMG-(Electromyography)  and  LFP- (Local Field Potential ) . It is a matlab based Neural signal analysis 
 %% EMG_CHN_32 and LFP_CHN_06
 
 clc;
